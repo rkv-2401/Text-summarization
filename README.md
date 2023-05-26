@@ -12,6 +12,8 @@
 ##### Section Tagging - Text Analytics
 ##### Manual TF-IDF Word Tokenization
 ##### Also make a CNN model to compare reslts.
+##### Extractive text summarization followed by Abstractive.
+
 
 ##### Long-term ideas:
 ###### Structural compression and structural coverage scores - results
