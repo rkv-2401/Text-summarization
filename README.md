@@ -13,7 +13,7 @@
 ##### Manual TF-IDF Word Tokenization
 ##### Also make a CNN model to compare reslts.
 
-##### Long-term ideas
+##### Long-term ideas:
 ###### Structural compression and structural coverage scores - results
 ###### Fact correectness evaluation - FAR-ASS
 ###### Text coherence algorithm
