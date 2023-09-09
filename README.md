@@ -1,10 +1,10 @@
 ## Text-summarization
 
 <img src = "https://github.com/rkv-2401/Text-summarization/assets/59438748/f7a226a8-6bac-494b-ad48-5f3055791cf7" width = 90%>
-
+Actual summaries.
+<img src = "https://github.com/rkv-2401/Text-summarization/assets/59438748/2516c7e0-aa0c-4e0c-8354-763634e295cd" width = 90%>
+Predicted summaries.
 <img src = "https://github.com/rkv-2401/Text-summarization/assets/59438748/299d14e9-7f3e-4f7f-9905-deaac1edaa98" width = 90%>
-
-<img src = "https://github.com/rkv-2401/Text-summarization/assets/59438748/2516c7e0-aa0c-4e0c-8354-763634e295cd" width = 90% >
 
 ### Note - please check out approach 2 for this better performing model.
 
