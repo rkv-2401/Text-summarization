@@ -1,5 +1,7 @@
 ## Text-summarization
 
+### Note - please check out approach 2 for a better performing model.
+
 #### Tried abstractive text summarization using an LSTM model on the medical transcriptions dataset. Many potential improvements left.
 
 #### This was approach #1, inspired by the tutorial at : https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
