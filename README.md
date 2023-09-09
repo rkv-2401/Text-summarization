@@ -4,7 +4,7 @@
 
 ![predicted_summaries_snip](https://github.com/rkv-2401/Text-summarization/assets/59438748/299d14e9-7f3e-4f7f-9905-deaac1edaa98)
 
-### Note - please check out approach 2 for a better performing model.
+### Note - please check out approach 2 for this better performing model.
 
 #### Tried abstractive text summarization using an LSTM model on the medical transcriptions dataset. Many potential improvements left.
 
