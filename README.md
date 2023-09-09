@@ -1,7 +1,6 @@
 ## Text-summarization
 
 <img src = "https://github.com/rkv-2401/Text-summarization/assets/59438748/f7a226a8-6bac-494b-ad48-5f3055791cf7" width = 90%>
-< br/>
 <p>Actual summaries.</p>
 <img src = "https://github.com/rkv-2401/Text-summarization/assets/59438748/2516c7e0-aa0c-4e0c-8354-763634e295cd" width = 90%>
 <br />
