@@ -16,7 +16,7 @@
 #### This approach is, in my opinion, not the best approach and the results indicate this too.  
 
 #### It seems largely wasteful to try to output a vector that is as long as the entire vocabulary for every token in an output sequence. 
-#### There might be 50-100 such tokens in one output sequence and there might be 100 - 10k+ such output sequences generated from a dataset.
+#### There will be around 50-100 such tokens in one output sequence and there might be 100 - 10k+ such output sequences generated from a dataset.
 
 ##### TODO:
 
